@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615760406 source:/home/diogo-valdrez/code/prog/lab01/lab01c/05/main.c
+	<stdio.h>
+	<stdlib.h>
+
