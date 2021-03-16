@@ -1,4 +1,4 @@
 # c_classes
-probs and labs from the UC Programação(1st year 2nd semester, MEEC)
+Project made by DiogoValdrez
 
-If you need to contact me use my discord: Duz#8881
+For more info contact me in Discord: Duz#8881
