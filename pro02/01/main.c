@@ -3,12 +3,18 @@
 
 int main()
 {
-    int nat, i;
+    int nat = 0, i;
     int sum = 0;
     int nod = 0; //number of divisiors
     float media;
-    printf("Escreva um inteiro\n");
-    scanf(" %d", &nat);
+    do{
+        printf("Escreva um inteiro\n");
+        if(scanf(" %d", &nat) != 1){
+            printf("ERRO. Insira um inteiro\n");
+            scanf("%*s"); //discarta uma string
+        }
+    }while(nat < 1);
+
     printf("%d é divisivel por: \n", nat);
     for(i = 1; i <= nat; i++)
     {
