@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1615750054 source:/home/diogo-valdrez/code/prog/lab01/lab01c/03poso/main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-
