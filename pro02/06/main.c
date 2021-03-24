@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <unistd.h>
+#include <getopt.h>
+
 
 
 #define MAX_VECTOR 10   /* tamanho máximo do vector */
